@@ -13,9 +13,9 @@ module.exports = {
   },
 
   mccartney: {
-    firstName: 'Paul',
-    lastName: 'McCartney',
-    genre: 'ROCK',
+    firstName: 'What',
+    lastName: 'iS',
+    genre: 'Up',
   },
 
   hendrix: {
