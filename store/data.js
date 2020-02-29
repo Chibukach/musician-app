@@ -31,8 +31,8 @@ module.exports = {
   },
 
   king: {
-    firstName: 'Bo',
-    lastName: 'Hansson',
-    genre: 'Rock',
+    firstName: 'Spun',
+    lastName: 'from',
+    genre: 'Elastic Beanstalk',
   },
 };
